@@ -20,8 +20,8 @@
 
 ## 📥 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/yourusername/DiceRoller/releases/latest)
-[![GitHub Releases](https://img.shields.io/github/v/release/yourusername/DiceRoller?style=for-the-badge&logo=github)](https://github.com/yourusername/DiceRoller/releases)
+[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/polienko/android_DiceRoller/releases/latest)
+[![GitHub Releases](https://img.shields.io/github/v/release/yourusername/DiceRoller?style=for-the-badge&logo=github)](https://github.com/polienko/android_DiceRoller/releases)
 
 </div>
 
